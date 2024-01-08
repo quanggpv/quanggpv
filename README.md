@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hi everyone, I'm ***[Quang]((https://www.facebook.com/phungquang0406/))*** <br>
+👋 Hi everyone, I'm ***[Quang](https://www.facebook.com/phungquang0406/)*** <br>
 **✨Backend Web Developer✨**
 
 🖥️ I'm a backend web developer with a passion for buiding functional, and scalable web applications. <br>
