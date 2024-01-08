@@ -25,15 +25,15 @@
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
-    <td align='center'>
+     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
     </td>
-    <td align='center'>
+     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg">
     </td>
 </tr>
 <tr>
-    <td align='center'>
+     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
     </td>
     <td align='center' width="190">
@@ -45,7 +45,7 @@
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
     </td>
-    <td align='center'>
+     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg">
     </td>
 </tr>
@@ -63,7 +63,7 @@
     <td align='center'  width="190">
         <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
     </td>
-    <td align='center'>
+     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">
     </td>
 </tr>
