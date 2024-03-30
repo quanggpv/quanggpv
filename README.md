@@ -12,6 +12,8 @@
 
 ✍️ I am also passionate about writing and sharing my experiences when I have free time. You can read my articles below; I will update more in the future!
 
+![](https://komarev.com/ghpvc/?username=quanggpv&color=blue)
+
 <h2 align='center'><i>Languages and Tools</i></h2>
 
 <table width="100">
