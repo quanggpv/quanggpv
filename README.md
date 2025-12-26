@@ -75,7 +75,7 @@
 
 * [Laravel fast bulk update](https://github.com/quanggpv/laravel-upsert-improved) - Improving performance for the upsert feature in Laravel.
 * [Fast Batch Update for Laravel](https://github.com/quanggpv/fast-batch-update) - A package for high-speed bulk updates.
-* [SSO - Auth Proxy] (https://github.com/sso-auth/sso-auth-proxy) - An Auth Proxy Service for integrating with SSO Keycloak 
+* [SSO - Auth Proxy](https://github.com/sso-auth/sso-auth-proxy) - An Auth Proxy Service for integrating with SSO Keycloak 
 
 <br>
 ... More coming soon
