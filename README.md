@@ -4,11 +4,8 @@
 **✨Backend Web Developer✨**
 
 🖥️ I'm a backend web developer with a passion for buiding functional, and scalable web applications. <br>
- Good at PHP (Laravel), SQL
  
 🔭 I’m currently working in Ho Chi Minh city, Vietnam
-
-🌱 I’m currently deep learning about JS (TS) and SQL
 
 ✍️ I am also passionate about writing and sharing my experiences when I have free time. You can read my articles below; I will update more in the future!
 
@@ -71,17 +68,14 @@
 </tr>
 </table>
 
-## GitHub Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=quanggpv&theme=dracula)](https://git.io/streak-stats)
-
 ## GitHub Activity
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=quanggpv&theme=react&area=true&hide_border=true#gh-light-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## My Recent Articles
+## Something you might find interesting
 
-* [Laravel fast bulk update](https://github.com/quanggpv/laravel-upsert-improved)
-* [Handle concurrent requests without row locking in MySQL](https://github.com/quanggpv/OurWorld/discussions/2)
+* [Laravel fast bulk update](https://github.com/quanggpv/laravel-upsert-improved) - Improving performance for the upsert feature in Laravel.
+* [Handle concurrent requests without row locking in MySQL](https://github.com/quanggpv/OurWorld/discussions/2) - Managing concurrent requests without row locking.
+* [Fast Batch Update for Laravel](https://github.com/quanggpv/fast-batch-update) - A package for high-speed bulk updates.
 
 <br>
-... Updating
+... More coming soon
