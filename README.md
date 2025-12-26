@@ -74,8 +74,8 @@
 ## Something you might find interesting
 
 * [Laravel fast bulk update](https://github.com/quanggpv/laravel-upsert-improved) - Improving performance for the upsert feature in Laravel.
-* [Handle concurrent requests without row locking in MySQL](https://github.com/quanggpv/OurWorld/discussions/2) - Managing concurrent requests without row locking.
 * [Fast Batch Update for Laravel](https://github.com/quanggpv/fast-batch-update) - A package for high-speed bulk updates.
+* [SSO - Auth Proxy] (https://github.com/sso-auth/sso-auth-proxy) - An Auth Proxy Service for integrating with SSO Keycloak 
 
 <br>
 ... More coming soon
